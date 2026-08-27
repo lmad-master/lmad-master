@@ -53,16 +53,16 @@
 
 ---
 
-## 🚀 Sobre Nosotros
+## Sobre Nosotros
 
 Me apasiona crear soluciones de software integrales, desde el backend y las interfaces web hasta experiencias interactivas en 3D y desarrollo de hardware. Actualmente lidero proyectos de desarrollo con equipos de internos universitarios y construyo plataformas que combinan tecnologías modernas.
 
-*   💻 **Stack Principal:** PHP (Laravel), Vue.js, React, Next.js, y Tailwind CSS.
-*   🎮 **Tecnologías Interactivas:** Three.js, WebGL, Unreal Engine 5, y realidad aumentada / virtual.
-*   ⚙️ **Hardware y Sistemas:** Prototipado con ESP32, Arduino y microcontroladores.
-*   ⚽ **Intereses:** Me encanta integrar dinámicas deportivas, particularmente el fútbol, en mis proyectos de software y juegos.
+*    **Stack Principal:** PHP (Laravel), Vue.js, React, Next.js, y Tailwind CSS.
+*    **Tecnologías Interactivas:** Three.js, WebGL, Unreal Engine 5, y realidad aumentada / virtual.
+*    **Hardware y Sistemas:** Prototipado con ESP32, Arduino y microcontroladores.
+*    **Intereses:** Me encanta integrar dinámicas deportivas, particularmente el fútbol, en mis proyectos de software y juegos.
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 **Backend & Bases de Datos:**
 `Laravel` `PHP` `MySQL` `MariaDB` `SQLite` `Prisma ORM`
@@ -73,7 +73,7 @@ Me apasiona crear soluciones de software integrales, desde el backend y las inte
 **3D, VR & Game Dev:**
 `Unreal Engine 5` `Three.js` `MindAR` `Meta Quest SDK`
 
-## 💡 Lo que estamos construyendo
+## Lo que estamos construyendo
 
 *   Sistemas de gestión empresarial con bases de datos relacionales avanzadas (vistas, triggers y procedimientos almacenados).
 *   Experiencias web en 3D y juegos tácticos multijugador.
