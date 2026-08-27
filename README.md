@@ -1,6 +1,5 @@
 <div align="center">
-<pre>
-                                                                        
+<pre>                                     
                                         -::                                                     
                                        -:::-                                                    
                                      ---=++*#############                                       
@@ -47,8 +46,8 @@
 <h1>¡Hola! 👋</h1>
 <h2>Somos la cuenta oficial de a Licenciatura en Multimedia y Animación Digital</h2>
 <h3>Universidad Autónoma de Nuevo Leon</h3>
-<h4></h4>Facultad de Ciencias Físico Matemáticas</h4>
-<p> Programación | Arte 3D | Arte 2D</p>
+<h4>Facultad de Ciencias Físico Matemáticas</h4>
+<p> Programación | Arte 3D | Arte 2D </p>
 </div>
 
 ---
