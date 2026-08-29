@@ -10,7 +10,7 @@
 Poner los logos de UANL y FCFM??
 -->
 
-<div align="left">
+<div align="center">
     Cuenta oficial de la <b>Licenciatura en Multimedia y Animación Digital (LMAD)</b><br>
     Facultad de Ciencias Físico Matemáticas · Universidad Autónoma de Nuevo León
 </div>
